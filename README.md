@@ -13,3 +13,4 @@ launched and terminated by using auto scaling groups and receive traffic from th
 the NAT gateway.
 
 OUTPUT:
+![image-alt](https://github.com/pranali-sawant20/VPC-with-pub-pvt-subnet-in-production/blob/b4a3ad77efe40e21c1fdbc65b0786214d27fd290/output1.vpc.png)
